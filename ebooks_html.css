@@ -1,0 +1,78 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_5219e707 a { text-decoration: none; }
+#menu_5219e707_pane { background-color: #A8BFFF; border: 1px solid #A8BFFF; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_5219e707_hr { background-color: #A8BFFF; height: 1px; border: none; }
+#menu_5219e707_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_5219e707_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_5219e707_entry:hover span { color:#FFFFFF !important; }
+		.menu_5219e707_mainMenuEntry { text-align: center; }
+		.menu_5219e707_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_5219e707_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_5219e707 .mobileEntry { display: none; } 
+		#menu_5219e707 .normalEntry { display: block; } 
+		@media only screen and (max-width:580px) { 
+			#menu_5219e707 .mobileEntry { display: block; } 
+			#menu_5219e707 .normalEntry { display: none; } 
+		}
+#table_4a107434 th { border: 1px solid #8C8C8C;  } 
+#table_4a107434 td { border: 1px solid #8C8C8C;  } 
+body { background-color:#BFFFA8; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_77aee14e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:103px; background-color:#A8BFFF;  }
+#container_77aee14e_padding { margin: 10px; display: block;  }
+#container_24d71f8 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:91px; background:none;  }
+#container_24d71f8_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:18pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+.textstyle4 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+#container_2d828b8a { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:91px; background:none;  }
+.textstyle5 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  }
+#menu_5219e707 { vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background:none;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.style1 { position:absolute; width:44px; height:38px; left:10px;  }
+.style2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:65px;  }
+.textstyle6 { font-size:36pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  white-space: nowrap; }
+.style3 { position:absolute; width:65px; height:38px; left:10px;  }
+.style4 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:22px;  }
+.textstyle7 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  white-space: nowrap; }
+.style5 { position:absolute; width:129px; height:38px; left:75px;  }
+.style6 { position:absolute; width:71px; height:38px; left:204px;  }
+.style7 { position:absolute; width:62px; height:38px; left:275px;  }
+.textstyle8 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  white-space: nowrap; }
+.textstyle9 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
+.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_72a389f2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_72a389f2_padding { margin: 10px; display: block;  }
+#table_4a107434 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:100%; height:177px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+#cell_3fc04ec1 {  }
+.textstyle11 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#cell_74332dce {  }
+#cell_57992644 {  }
+#cell_4003f58 {  }
+#cell_7759841f {  }
+#cell_16d3812 {  }
+#cell_44b645c5 {  }
+#cell_7d1d137f {  }
+#cell_3256157a {  }
+#cell_1b8a90ba {  }
+#cell_458600e3 {  }
+#cell_7898eb09 {  }
+#cell_53613c46 {  }
+#cell_7c455bf2 {  }
+#cell_4171186a {  }
+#cell_2d2bbc2c {  }
+#cell_c091148 {  }
+#cell_115d7202 {  }
+#cell_3982def8 {  }
+#cell_169f0b73 {  }
+#cell_169f0b73 {  }
+#cell_169f0b73 {  }
+#cell_169f0b73 {  }
+#cell_169f0b73 {  }
+@media only screen and (max-width: 360px)
+{
+		#container_24d71f8 { width:100%;  }
+}

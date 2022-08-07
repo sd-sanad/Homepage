@@ -1,0 +1,113 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_270064f4 a { text-decoration: none; }
+#menu_270064f4_pane { background-color: #A8BFFF; border: 1px solid #A8BFFF; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_270064f4_hr { background-color: #A8BFFF; height: 1px; border: none; }
+#menu_270064f4_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_270064f4_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_270064f4_entry:hover span { color:#FFFFFF !important; }
+		.menu_270064f4_mainMenuEntry { text-align: center; }
+		.menu_270064f4_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_270064f4_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_270064f4 .mobileEntry { display: none; } 
+		#menu_270064f4 .normalEntry { display: block; } 
+		@media only screen and (max-width:580px) { 
+			#menu_270064f4 .mobileEntry { display: block; } 
+			#menu_270064f4 .normalEntry { display: none; } 
+		}
+#table_16d5cb95 th { border: 1px solid #8C8C8C;  } 
+#table_16d5cb95 td { border: 1px solid #8C8C8C;  } 
+body { background-color:#BFFFA8; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_5c4b6259 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:103px; background-color:#A8BFFF;  }
+#container_5c4b6259_padding { margin: 10px; display: block;  }
+#container_7efc2490 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:91px; background:none;  }
+#container_7efc2490_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:18pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+.textstyle4 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  }
+#container_12e4cf8c { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:91px; background:none;  }
+.textstyle5 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px #000000;  }
+#menu_270064f4 { vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background:none;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.style1 { position:absolute; width:44px; height:38px; left:10px;  }
+.style2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:65px;  }
+.textstyle6 { font-size:36pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  white-space: nowrap; }
+.style3 { position:absolute; width:65px; height:38px; left:10px;  }
+.style4 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:22px;  }
+.textstyle7 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold; text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.784314);  white-space: nowrap; }
+.style5 { position:absolute; width:129px; height:38px; left:75px;  }
+.style6 { position:absolute; width:71px; height:38px; left:204px;  }
+.style7 { position:absolute; width:62px; height:38px; left:275px;  }
+.textstyle8 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF;  white-space: nowrap; }
+.textstyle9 { font-size:12pt; font-family:'Palatino Linotype', 'Book Antiqua3', Palatino, serif; color:#FFFFFF; font-weight:bold;  white-space: nowrap; }
+.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_2e2c1bbd { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_2e2c1bbd_padding { margin: 10px; display: block;  }
+#table_16d5cb95 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:100%; height:455px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+#cell_37879487 {  }
+.textstyle11 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#cell_1b27f4f9 {  }
+#cell_b67f845 {  }
+#cell_a60fe9e {  }
+#cell_41a4bb63 {  }
+#cell_3cf8fdc0 {  }
+#cell_4a37ffff {  }
+#cell_4db905e6 {  }
+#cell_465b739c {  }
+#cell_d97417 {  }
+#cell_4e9de8a {  }
+#cell_64736d2 {  }
+#cell_6fbd709b {  }
+#cell_6c95f46e {  }
+#cell_c4c04f0 {  }
+#cell_238faedd {  }
+#cell_130a0485 {  }
+#cell_546d6348 {  }
+#cell_7bef09bf {  }
+#cell_286eddbb {  }
+#cell_76b595c9 {  }
+#cell_381433ae {  }
+#cell_6b6a6163 {  }
+#cell_a01aaa0 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+#cell_76b595c9 {  }
+@media only screen and (max-width: 360px)
+{
+		#container_7efc2490 { width:100%;  }
+}
